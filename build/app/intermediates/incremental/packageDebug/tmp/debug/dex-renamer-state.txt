@@ -1,4 +1,4 @@
-#Sun Feb 12 15:58:20 CET 2023
-base.0=/Users/louisbonnet11/Desktop/gestion_stocks_vbpn/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Feb 23 16:02:23 CET 2023
+base.0=/Users/louisbonnet11/Desktop/VBPN/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

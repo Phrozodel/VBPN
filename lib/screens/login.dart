@@ -46,6 +46,7 @@ class Login extends StatelessWidget {
                         },
                       ),
                       TextFormField(
+                        obscureText: true,
                         decoration: const InputDecoration(
                           hintText: 'Mot de passe',
                         ),

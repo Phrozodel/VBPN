@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/louisbonnet11/Desktop/gestion_stocks_vbpn/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/louisbonnet11/Desktop/VBPN/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/louisbonnet11/Desktop/gestion_stocks_vbpn/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/louisbonnet11/Desktop/VBPN/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
